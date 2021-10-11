@@ -1,0 +1,36 @@
+MyLittleBase License agreement,
+
+Please read carefully the following,
+To use MyLittleBase you must agree with the following statements :
+
+1- Distribution,
+MyLittleBase object and component are copyrighted ANIROM 2001.
+You have an unlimited right of using it and distributing it.
+You cannot modify the code, you must write your own custom modules inheriting from MyLittleBase Object.
+Custom modules must contain your own copyright notice + this copyright notice.
+
+2- Local laws,
+You must be sure that you can download 
+and use this software in your country,
+you will be the only responsible person in case
+of prohibited use or copy or download.
+Delete all related files immediately in case of prohibition.
+
+3- Damages, Warranty
+ANIROM makes no warranty, 
+including but not limited to any implied warranties of merchantability 
+or fitness for a particular purpose, 
+regarding the Software or accompanying materials. 
+The Software and accompanying materials are provided solely on an "as-is" basis. 
+In no event shall ANIROM be liable to any special, 
+collateral, incidental, or consequential damages 
+in connection with or arising 
+out of the purchase or use of the Software 
+and accompanying materials. 
+You accept to indemnify ANIROM for any charge against It,
+resulting of your use or download of this software.
+You are the only responsible person, 
+for any direct or indirect damage 
+or consequence resulting of the use of this software.
+
+This agreement is governed by French laws.

@@ -1,0 +1,14 @@
+To install MyLittleBase delphi component,
+1- copy the 3 files mlbc.pas, mlbc.dcr and mlb2.pas to the lib directory of your current delphi version.
+
+BE CAREFUL !
+copy the mlbc.dcr in the delphi16 sub directory for delphi 1 (16 bits)
+or copy the mlbc.dcr in the delphi32 sub directory for delphi 2 to 7 (32 bits)
+
+2- Register the component mlbc.pas by using the install component menu of delphi.
+3- Drag and Drop the component into your programs windows and use it like a MyLittleBase object.
+
+
+Remarks:
+A MyLittleBase component (TMlbc) is an interface to a MyLittleBase 2 object (TMlb2).
+Don't forget to copy both object (mlb2.pas) and component (mlbc.pas) to the lib directory before registering the component.
